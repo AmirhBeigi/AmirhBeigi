@@ -1,6 +1,14 @@
 # Hi there <img src="https://raw.githubusercontent.com/AmirhBeigi/AmirhBeigi/master/wave.gif" width="30px">
 ### I’m Amirhossein, Frontend developer.
 
+<p>
+  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=black" />
+  <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-EFD81D?logo=javascript&logoColor=black" /> 
+  <img alt="ReactJS" src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=black" /> 
+  <img alt="VueJS" src="https://img.shields.io/badge/-VueJS-3FB883?logo=vue.js&logoColor=black" /> 
+  <img alt="NuxtJS" src="https://img.shields.io/badge/-NuxtJS-00c58e?logo=nuxt.js&logoColor=black" /> 
+</p>
+
 ### Contact with me 🙂
 👋 Just say Hello. I am looking forward to hearing from you!
 
