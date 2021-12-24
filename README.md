@@ -1,9 +1,10 @@
 <div align="center" >
+
+  <img src="https://raw.githubusercontent.com/AmirhBeigi/AmirhBeigi/master/hero.png" />
   
-<h3><samp> Hi there <img src="https://raw.githubusercontent.com/AmirhBeigi/AmirhBeigi/master/wave.gif" width="30px">  I’m Amirhossein </samp></h3>
+  <h3><samp> Hi there <img src="https://raw.githubusercontent.com/AmirhBeigi/AmirhBeigi/master/wave.gif" width="30px">  I’m Amirhossein </samp></h3>
   
-  
-<samp>React Developer</samp>
+  <samp>React Developer</samp>
   
 ![React](https://img.shields.io/static/v1?logo=react&label=&message=React&color=2D333B&logoWidth=20&logoColor=EEE&style=flat-square)
 ![typescript](https://img.shields.io/static/v1?logo=typescript&label=&message=Typescript&color=2D333B&logoWidth=20&logoColor=EEE&style=flat-square)
@@ -22,12 +23,6 @@
 [<img src="https://img.icons8.com/fluent/48/000000/telegram-app.png"/>](https://t.me/amirhbeigi)
 
 </div>
-
-
-
-<!-- > Innovative Front-End Engineer with +6 years of professional experience, focused on modular and scalable design and development. Proficient in Web technologies and modern JS/TS ecosystem. I am passionate about learning, teaching, mentoring, and code review.
- -->
-
 
 
 <hr />
