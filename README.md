@@ -1,19 +1,44 @@
-# Hi there <img src="https://raw.githubusercontent.com/AmirhBeigi/AmirhBeigi/master/wave.gif" width="30px">
-### I’m Amirhossein, Frontend developer.
+<div align="center" >
+  
+<h3><samp> Hi there <img src="https://raw.githubusercontent.com/AmirhBeigi/AmirhBeigi/master/wave.gif" width="30px">  I’m Amirhossein </samp></h3>
+  
+  
+<samp>React Developer</samp>
+  
+![React](https://img.shields.io/static/v1?logo=react&label=&message=React&color=2D333B&logoWidth=20&logoColor=EEE&style=flat-square)
+![typescript](https://img.shields.io/static/v1?logo=typescript&label=&message=Typescript&color=2D333B&logoWidth=20&logoColor=EEE&style=flat-square)
+![Storybook](https://img.shields.io/static/v1?logo=Storybook&label=&message=Storybook&color=2D333B&logoWidth=20&logoColor=EEE&style=flat-square)
+![Cypress](https://img.shields.io/static/v1?logo=cypress&label=&message=Cypress&color=2D333B&logoWidth=20&logoColor=EEE&style=flat-square)
+![Jest](https://img.shields.io/static/v1?logo=Jest&label=&message=Jest&color=2D333B&logoWidth=20&logoColor=EEE&style=flat-square)
+![github](https://img.shields.io/static/v1?logo=github&label=&message=Github&color=2D333B&logoWidth=20&logoColor=EEE&style=flat-square)
+![git](https://img.shields.io/static/v1?logo=git&label=&message=git&color=2D333B&logoWidth=20&logoColor=EEE&style=flat-square)
+![nx](https://img.shields.io/static/v1?logo=nx&label=&message=nx&color=2D333B&logoWidth=20&logoColor=EEE&style=flat-square)
+![docker](https://img.shields.io/static/v1?logo=docker&label=&message=docker&color=2D333B&logoWidth=20&logoColor=EEE&style=flat-square)
 
-<p>
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=black" />
-  <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-EFD81D?logo=javascript&logoColor=black" /> 
-  <img alt="ReactJS" src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=black" /> 
-  <img alt="WakaTime" src="https://wakatime.com/badge/user/3136002b-8d6a-4234-bf6d-5fec10a0a293.svg" />
-</p>
-
-### Contact with me 🙂
-👋 Just say Hello. I am looking forward to hearing from you!
+  <samp>Just say Hello. I am looking forward to hearing from you!</samp>
 
 [<img src="https://img.icons8.com/color/48/000000/twitter.png"/>](https://twitter.com/amirhbeigi)
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png"/>](https://linkedin.com/in/amirhbeigi)
-[<img src="https://img.icons8.com/fluent/48/000000/telegram-app.png"/>](https://t.me/itsAmirly)
+[<img src="https://img.icons8.com/fluent/48/000000/telegram-app.png"/>](https://t.me/amirhbeigi)
 
+</div>
+
+
+
+<!-- > Innovative Front-End Engineer with +6 years of professional experience, focused on modular and scalable design and development. Proficient in Web technologies and modern JS/TS ecosystem. I am passionate about learning, teaching, mentoring, and code review.
+ -->
+
+
+
+<hr />
+<!-- 
 ### Subscribe us YouTube channel
 [<img src="https://img.icons8.com/fluent/48/000000/youtube-play.png" />](https://www.youtube.com/c/MosallasGroup/)
+
+<hr /> -->
+
+<div align="center">
+  <samp>View Count</samp>
+  <br />
+  <img src="https://profile-counter.glitch.me/{amirhbeigi}/count.svg" alt="visitor count" />
+</div>
