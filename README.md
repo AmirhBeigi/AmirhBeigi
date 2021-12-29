@@ -4,7 +4,7 @@
   
   <h3><samp> Hi there <img src="https://raw.githubusercontent.com/AmirhBeigi/AmirhBeigi/master/wave.gif" width="30px">  I’m Amirhossein </samp></h3>
   
-  <samp>React Developer</samp>
+  <samp>FrontEnd Developer</samp>
   
 ![React](https://img.shields.io/static/v1?logo=react&label=&message=React&color=2D333B&logoWidth=20&logoColor=EEE&style=flat-square)
 ![typescript](https://img.shields.io/static/v1?logo=typescript&label=&message=Typescript&color=2D333B&logoWidth=20&logoColor=EEE&style=flat-square)
