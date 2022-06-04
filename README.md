@@ -2,7 +2,7 @@
 
   <img src="https://raw.githubusercontent.com/AmirhBeigi/AmirhBeigi/master/hero.png" />
   
-  <h3><samp> Hi there <img src="https://raw.githubusercontent.com/AmirhBeigi/AmirhBeigi/master/wave.gif" width="30px">  I’m Amirhossein </samp></h3>
+  <h3><samp> Hi there <img src="https://raw.githubusercontent.com/AmirhBeigi/AmirhBeigi/master/wave.gif" width="30px" height="30px">  I’m Amirhossein </samp></h3>
   
   <samp>FrontEnd Developer</samp>
   
