@@ -1,6 +1,4 @@
 <div align="center" >
-
-  <img src="https://raw.githubusercontent.com/AmirhBeigi/AmirhBeigi/master/hero.png" />
   
   <h3><samp> Hi there <img src="https://raw.githubusercontent.com/AmirhBeigi/AmirhBeigi/master/wave.gif" width="30px" height="30px">  I’m Amirhossein </samp></h3>
   
@@ -11,9 +9,7 @@
 ![Storybook](https://img.shields.io/static/v1?logo=Storybook&label=&message=Storybook&color=2D333B&logoWidth=20&logoColor=EEE&style=flat-square)
 ![Cypress](https://img.shields.io/static/v1?logo=cypress&label=&message=Cypress&color=2D333B&logoWidth=20&logoColor=EEE&style=flat-square)
 ![Jest](https://img.shields.io/static/v1?logo=Jest&label=&message=Jest&color=2D333B&logoWidth=20&logoColor=EEE&style=flat-square)
-![github](https://img.shields.io/static/v1?logo=github&label=&message=Github&color=2D333B&logoWidth=20&logoColor=EEE&style=flat-square)
 ![git](https://img.shields.io/static/v1?logo=git&label=&message=git&color=2D333B&logoWidth=20&logoColor=EEE&style=flat-square)
-![nx](https://img.shields.io/static/v1?logo=nx&label=&message=nx&color=2D333B&logoWidth=20&logoColor=EEE&style=flat-square)
 ![docker](https://img.shields.io/static/v1?logo=docker&label=&message=docker&color=2D333B&logoWidth=20&logoColor=EEE&style=flat-square)
 
   <samp>Just say Hello. I am looking forward to hearing from you!</samp>
