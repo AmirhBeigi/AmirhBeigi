@@ -1,36 +1,21 @@
-<div align="center" >
-  
-  <h3><samp> Hi there <img src="https://raw.githubusercontent.com/AmirhBeigi/AmirhBeigi/master/wave.gif" width="30px" height="30px">  I’m Amirhossein </samp></h3>
-  
-  <samp>FrontEnd Developer</samp>
-  
-![React](https://img.shields.io/static/v1?logo=react&label=&message=React&color=2D333B&logoWidth=20&logoColor=EEE&style=flat-square)
-![typescript](https://img.shields.io/static/v1?logo=typescript&label=&message=Typescript&color=2D333B&logoWidth=20&logoColor=EEE&style=flat-square)
-![Storybook](https://img.shields.io/static/v1?logo=Storybook&label=&message=Storybook&color=2D333B&logoWidth=20&logoColor=EEE&style=flat-square)
-![Cypress](https://img.shields.io/static/v1?logo=cypress&label=&message=Cypress&color=2D333B&logoWidth=20&logoColor=EEE&style=flat-square)
-![Jest](https://img.shields.io/static/v1?logo=Jest&label=&message=Jest&color=2D333B&logoWidth=20&logoColor=EEE&style=flat-square)
-![git](https://img.shields.io/static/v1?logo=git&label=&message=git&color=2D333B&logoWidth=20&logoColor=EEE&style=flat-square)
-![docker](https://img.shields.io/static/v1?logo=docker&label=&message=docker&color=2D333B&logoWidth=20&logoColor=EEE&style=flat-square)
+# Amirhossein
+### I'm Frontend Developer
 
-  <samp>Just say Hello. I am looking forward to hearing from you!</samp>
+⤷ I am a who likes creating beautiful and functional web applications. have a strong interest in UI/UX design as well as learning new technologies like ReactJS. With my passion, I bring innovative ideas to clients to improve products and services with creative concepts and strategies.
 
-[<img src="https://img.icons8.com/color/48/000000/twitter.png"/>](https://twitter.com/amirhbeigi)
-[<img src="https://img.icons8.com/color/48/000000/linkedin.png"/>](https://linkedin.com/in/amirhbeigi)
-[<img src="https://img.icons8.com/fluent/48/000000/telegram-app.png"/>](https://t.me/amirhbeigi)
+ <a aligh="left" href="https://amirhbeigi.ir" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/globe.svg" alt="Website" width="22" height="22" /></a> <a aligh="left" href="mailto:dev.amirhbeigi@gmail.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/at.svg" alt="Email" width="22" height="22" /></a> <a aligh="left" href="https://twitter.com/amirhbeigi" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/twitter.svg" alt="Twitter" width="22" height="22" /></a> <a aligh="left" href="https://www.linkedin.com/in/amirhbeigi" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/linkedin.svg" alt="LinkedIn" width="22" height="22" /></a>  
 
-<a href=#><img src="contributions.svg"></a>
-</div>
+⚐ Based in Iran | Remote
+
+ϟ Currently at paziresh24.com
+
+
+
+ ## Skills
+   <a href="https://www.javascript.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/core/javascript.svg" alt="JavaScript" width="25" height="25" /></a> <a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/core/typescript.svg" alt="Typescript" width="25" height="25" /></a>  <a href="https://html.com/html5/" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/frontend/html5.svg" alt="HTML5" width="25" height="25" /></a> <a href="https://css3.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/frontend/css3.svg" alt="CSS3" width="25" height="25" /></a> <a href="https://reactjs.org" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/frontend/react.svg" alt="React" width="25" height="25" /></a> <a href="https://nextjs.org" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/frontend/nextjs.svg" alt="NextJS" width="25" height="25" /></a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/frontend/sass.svg" alt="SASS" width="25" height="25" /></a> <a href="http://tailwindcss.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/frontend/tailwind.svg" alt="Tailwind" width="25" height="25" /></a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/frontend/webpack.svg" alt="Webpack" width="25" height="25" /></a> <a href="http://vitejs.dev/" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/frontend/vite.svg" alt="Vite" width="25" height="25" /></a>  <a href="https://nodejs.org" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/backend/nodejs.svg" alt="NodeJS" width="25" height="25" /></a> 
 
 
 <hr />
-<!-- 
-### Subscribe us YouTube channel
-[<img src="https://img.icons8.com/fluent/48/000000/youtube-play.png" />](https://www.youtube.com/c/MosallasGroup/)
-
-<hr /> -->
-
 <div align="center">
-  <samp>View Count</samp>
-  <br />
-  <img src="https://profile-counter.glitch.me/{amirhbeigi}/count.svg" alt="visitor count" />
+<a href=# style="margin: 0 auto"><img src="contributions.svg"></a>
 </div>
